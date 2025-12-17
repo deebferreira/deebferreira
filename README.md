@@ -19,6 +19,7 @@ Inicialmente, meus testes eram mais focados na **validação funcional** das apl
 
 <br/>
 
-## 🧰 Estatísticas
+## 📊 Estatísticas
+![Estatísticas](https://custom-icon-badges.demolab.com/badge/Stats-GitHub-4CAF50.svg?logo=graph&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deebferreira&show_icons=true)
