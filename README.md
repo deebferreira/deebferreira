@@ -25,4 +25,4 @@ Inicialmente, meus testes eram mais focados na **validação funcional** das apl
 
 | 📊 Estatísticas | 🧰 Tecnologias |
 |-----------------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deebferreira&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deebferreira&layout=compact)](https://github.com/deebferreira/github-readme-stats) |
+| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=deebferreira&show_icons=true) | [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=deebferreira&layout=compact)](https://github.com/deebferreira/github-readme-stats) |
