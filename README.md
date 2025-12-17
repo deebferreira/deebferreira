@@ -18,7 +18,6 @@ Inicialmente, meus testes eram mais focados na **validação funcional** das apl
 ![Jira](https://custom-icon-badges.demolab.com/badge/Jira-0052CC.svg?logo=jira&logoColor=white)
 
 <br/>
-<br/>
 
 ## 🧰 Estatísticas
 
