@@ -12,9 +12,8 @@ Inicialmente, meus testes eram mais focados na **validação funcional** das apl
 
 ## 🧰 Linguagens e Tecnologias
 
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?logo=java&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Trello-0052CC.svg?logo=trello&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Jira-0052CC.svg?logo=jira&logoColor=white" />
-</p>
+![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white)
+![Java](https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?logo=java&logoColor=white)
+![Trello](https://custom-icon-badges.demolab.com/badge/Trello-0052CC.svg?logo=trello&logoColor=white)
+![Jira](https://custom-icon-badges.demolab.com/badge/Jira-0052CC.svg?logo=jira&logoColor=white)
+
