@@ -5,3 +5,9 @@
 Sou uma profissional com **mais de 3 anos de experiência em tecnologia e operações**, atuando com **testes de software**, **usabilidade** e **integração de sistemas**. Ao longo da minha trajetória, realizei **mais de 200 testes**, o que me permitiu identificar padrões importantes no comportamento dos sistemas e dos usuários. Essa vivência prática foi fundamental para minha evolução: deixei de ser apenas uma executora de tarefas para me tornar alguém focada em **entender o porquê por trás de cada falha**, buscando a causa raiz dos problemas. 
 
 Inicialmente, meus testes eram mais focados na **validação funcional** das aplicações. Atualmente, cursando **Análise e Desenvolvimento de Sistemas** e me aprimorando por meio de **cursos de QA**, venho aprofundando meu entendimento na **parte teórica**, nos **processos de qualidade**, no **ciclo de vida do software** e na **abordagem estratégica dos testes**, o que tem direcionado minha atuação de forma mais completa e consciente.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deboraferreirap/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white" />
+  </a>
+</p>
