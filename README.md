@@ -17,3 +17,9 @@ Inicialmente, meus testes eram mais focados na **validação funcional** das apl
 ![Trello](https://custom-icon-badges.demolab.com/badge/Trello-0052CC.svg?logo=trello&logoColor=white)
 ![Jira](https://custom-icon-badges.demolab.com/badge/Jira-0052CC.svg?logo=jira&logoColor=white)
 
+<br/>
+<br/>
+
+## 🧰 Estatísticas
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deebferreira&show_icons=true)
