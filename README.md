@@ -6,7 +6,7 @@ Sou uma profissional com **mais de 3 anos de experiência em tecnologia e opera�
 
 Inicialmente, meus testes eram mais focados na **validação funcional** das aplicações. Atualmente, cursando **Análise e Desenvolvimento de Sistemas** e me aprimorando por meio de **cursos de QA**, venho aprofundando meu entendimento na **parte teórica**, nos **processos de qualidade**, no **ciclo de vida do software** e na **abordagem estratégica dos testes**, o que tem direcionado minha atuação de forma mais completa e consciente.
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deboraferreirap/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deboraferreirap/)
 
 ---
 
