@@ -12,10 +12,10 @@ Inicialmente, meus testes eram mais focados na **validação funcional** das apl
 
 ## 🧰 Linguagens e Tecnologias
 
-![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white)
-![Java](https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?logo=java&logoColor=white)
-![Trello](https://custom-icon-badges.demolab.com/badge/Trello-0052CC.svg?logo=trello&logoColor=white)
-![Jira](https://custom-icon-badges.demolab.com/badge/Jira-0052CC.svg?logo=jira&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 <br/>
 
